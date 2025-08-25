@@ -33,14 +33,14 @@ Or you can choose to download the VS Code directly from the browser itself.
 - The naming convention will be:
 
 ```text
-week<number>\_assignment.ipynb
+week<number>_assignment.ipynb
 ```
 
 Example:
 
 ```text
-week1\_assignment.ipynb
-week2\_assignment.ipynb
+week1_assignment.ipynb
+week2_assignment.ipynb
 ```
 
 **Strict Rule:** Do **not** change the file name.
@@ -52,8 +52,8 @@ week2\_assignment.ipynb
 - Try to complete each assignment within **1 hour**.
 - Solve it using **your preferred IDE** (JupyterLab, VS Code, etc.).
 - Do **not** alter:
-- The file name
-- The file structure
+  - The file name
+  - The file structure
 
 Since grading will be **automated**, any changes outside of allowed edits will result in **zero marks**.
 
@@ -78,10 +78,10 @@ submitted
 3. Inside your personal folder, create subfolders for each week:
 
 ```text
-/submitted/\<your\_name>/week1
-/submitted/\<your\_name>/week2
+/submitted/<your_name>/week1
+/submitted/<your_name>/week2
 ...
-/submitted/\<your\_name>/week10
+/submitted/<your_name>/week10
 ```
 
 4. When submitting:
@@ -91,8 +91,8 @@ submitted
 Example (if your name is Puneet):
 
 ```text
-/submitted/puneet/week1/week1\_assignment.ipynb
-/submitted/puneet/week2/week2\_assignment.ipynb
+/submitted/puneet/week1/week1_assignment.ipynb
+/submitted/puneet/week2/week2_assignment.ipynb
 ```
 
 ---
