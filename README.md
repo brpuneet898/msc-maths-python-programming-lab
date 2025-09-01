@@ -9,3 +9,7 @@ Note - The reading material prepared for each week is available. It is strictly 
 ## Week 1
 
 **Content** - Python installation; running code; using Jupyter notebooks
+
+## Week 2
+
+**Content** - Variables, expressions and statements
