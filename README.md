@@ -13,3 +13,7 @@ Note - The reading material prepared for each week is available. It is strictly 
 ## Week 2
 
 **Content** - Variables, expressions and statements
+
+## Week 3
+
+**Content** - Conditionals and Boolean expressions
