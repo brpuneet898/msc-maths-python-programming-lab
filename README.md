@@ -25,3 +25,11 @@ Note - The reading material prepared for each week is available. It is strictly 
 ## Week 5
 
 **Content** - Functions
+
+## Week 6
+
+**Content** - Strings and File I/O
+
+## Week 7
+
+**Content** - Lists, Tuples and Dictionaries
