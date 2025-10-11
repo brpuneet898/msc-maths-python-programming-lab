@@ -33,3 +33,7 @@ Note - The reading material prepared for each week is available. It is strictly 
 ## Week 7
 
 **Content** - Lists, Tuples and Dictionaries
+
+## Week 8
+
+**Content** - Regular Expressions and Data Structures
