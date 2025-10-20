@@ -37,3 +37,11 @@ Note - The reading material prepared for each week is available. It is strictly 
 ## Week 8
 
 **Content** - Regular Expressions and Data Structures
+
+## Week 9
+
+**Content** - Data Visualisation
+
+## Week 10
+
+**Content** - Content Creation and Animations
